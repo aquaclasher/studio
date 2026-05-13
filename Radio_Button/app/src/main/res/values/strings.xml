@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Radio_Button</string>
+    <string name="Heading">Choose a course</string>
+    <string name="radioButton1">Data Mining</string>
+    <string name="radioButton2">Cloud Computing</string>
+    <string name="radioButton3">Computer Networks - 1</string>
+    <string name="radioButton4">Software Engineering Object-Oriented Modelling Design</string>
+    <string name="radioButton5">Mobile Application Development</string>
+    <string name="submit_button">Submit</string>
+</resources>
